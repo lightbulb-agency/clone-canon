@@ -1,4 +1,4 @@
-# WebGi Camera Landing Page
+# Cloned Canon Website Landong Page
 A template for buildind scrollable landing pages with Gsap, ScrollTrigger and webgi engine in typescript using parcel bundler.
 
 ### Live link: https://clone-canon.vercel.app/
