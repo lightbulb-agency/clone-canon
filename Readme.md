@@ -1,9 +1,9 @@
 # WebGi Camera Landing Page
 A template for buildind scrollable landing pages with Gsap, ScrollTrigger and webgi engine in typescript using parcel bundler.
 
-### Live link: https://camera-webgi.vercel.app/
+### Live link: https://clone-canon.vercel.app/
 
-<a href="https://camera-webgi.vercel.app/" target="_blank"><img src="assets/images/canon_threejs_webgi.jpg" width="100%" /></a>
+<a href="https://clone-canon.vercel.app/" target="_blank"><img src="assets/images/canon_threejs_webgi.jpg" width="100%" /></a>
 
 <strong>by LIGHTBULB</strong>
 
